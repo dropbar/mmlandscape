@@ -1,0 +1,17 @@
+# Site settings
+title: M and M Landscape Supply
+email: your-email@domain.com
+description: We got rocks
+baseurl: "mmlandscape" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+copyright: '&copy; 2020 MM Landscape'
+
+# Build settings
+markdown: kramdown
+
+# Custom theme could be generated at: https://getmdl.io/customize/index.html
+material_theme: blue-deep_orange
+
+# Google Analytics account ID (UA-XXXXXXXX-X)
+
+google-analytics-ua: 
