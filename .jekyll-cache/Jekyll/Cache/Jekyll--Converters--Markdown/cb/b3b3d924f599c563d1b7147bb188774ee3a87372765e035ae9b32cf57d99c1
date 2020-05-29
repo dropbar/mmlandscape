@@ -1,4 +1,4 @@
-I"!<div class="mdl-layout__header-row">
+I"£<div class="mdl-layout__header-row">
     <a class="site-title">
         <span class="mdl-layout-title">Specials</span>
     </a>
@@ -6,9 +6,9 @@
 <div class="mdl-grid">
   
     <div class="mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--12-col-phone post-block">
-      <a href="/mmlandscape/sand/2015/10/23/washedconcrete.html">
+      <a href="/sand/2015/10/23/washedconcrete.html">
         <div class="post-card mdl-shadow--2dp">
-          <img src="mmlandscape/assets/images/rock3.jpg" />
+          <img src="../assets/images/rock3.jpg" />
           <div class="mdl-card__title">
             <h2 class="mdl-card__title-text">Fill Sand</h2>
           </div>
@@ -22,9 +22,9 @@
   </div>
   
     <div class="mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--12-col-phone post-block">
-      <a href="/mmlandscape/misc/2015/10/23/sand.html">
+      <a href="/misc/2015/10/23/sand.html">
         <div class="post-card mdl-shadow--2dp">
-          <img src="mmlandscape/assets/images/rock4.jpg" />
+          <img src="../assets/images/rock4.jpg" />
           <div class="mdl-card__title">
             <h2 class="mdl-card__title-text">Topsoil</h2>
           </div>
@@ -38,9 +38,9 @@
   </div>
   
     <div class="mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--12-col-phone post-block">
-      <a href="/mmlandscape/palletized/rock/2015/10/23/fillsand.html">
+      <a href="/palletized/rock/2015/10/23/fillsand.html">
         <div class="post-card mdl-shadow--2dp">
-          <img src="mmlandscape/assets/images/rock5.jpg" />
+          <img src="../assets/images/rock5.jpg" />
           <div class="mdl-card__title">
             <h2 class="mdl-card__title-text">Baja Crest Boulders</h2>
           </div>
@@ -54,9 +54,9 @@
   </div>
   
     <div class="mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--12-col-phone post-block">
-      <a href="/mmlandscape/decorative/rock/2015/10/23/dggold.html">
+      <a href="/decorative/rock/2015/10/23/dggold.html">
         <div class="post-card mdl-shadow--2dp">
-          <img src="mmlandscape/assets/images/rock6.jpg" />
+          <img src="../assets/images/rock6.jpg" />
           <div class="mdl-card__title">
             <h2 class="mdl-card__title-text">Arizona River Rock</h2>
           </div>
@@ -70,9 +70,9 @@
   </div>
   
     <div class="mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--12-col-phone post-block">
-      <a href="/mmlandscape/sand/2015/10/23/cmix.html">
+      <a href="/sand/2015/10/23/cmix.html">
         <div class="post-card mdl-shadow--2dp">
-          <img src="mmlandscape/assets/images/rock1.jpg" />
+          <img src="../assets/images/rock1.jpg" />
           <div class="mdl-card__title">
             <h2 class="mdl-card__title-text">C-Mix</h2>
           </div>
@@ -86,9 +86,9 @@
   </div>
   
     <div class="mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--12-col-phone post-block">
-      <a href="/mmlandscape/rock/2015/10/23/2base.html">
+      <a href="/rock/2015/10/23/2base.html">
         <div class="post-card mdl-shadow--2dp">
-          <img src="mmlandscape/assets/images/rock2.jpg" />
+          <img src="../assets/images/rock2.jpg" />
           <div class="mdl-card__title">
             <h2 class="mdl-card__title-text">Base</h2>
           </div>
