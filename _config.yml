@@ -10,7 +10,7 @@ copyright: '&copy; 2020 MM Landscape'
 markdown: kramdown
 
 # Custom theme could be generated at: https://getmdl.io/customize/index.html
-material_theme: grey-cyan
+material_theme: brown-amber
 
 # Google Analytics account ID (UA-XXXXXXXX-X)
 
