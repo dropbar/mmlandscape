@@ -1,7 +1,19 @@
+<!-- Uses a transparent header that draws on top of the layout's background -->
+<style>
+.layout-transparent {
+  background: url('/assets/images/banner-rocks.jpg') center / cover;
+}
+.layout-transparent .mdl-layout__header,
+.layout-transparent .mdl-layout__drawer-button {
+  /* This background is dark, so we set text to white. Use 87% black instead if
+     your background is light. */
+  color: Black;
+}
+</style>
 <header class="mdl-layout__header">
-    <div class="mdl-layout__header-row">
+    <div class="layout-transparent mdl-layout__header-row">
         <a class="site-title" href="{{ site.baseurl }}/">
             <span class="mdl-layout-title">{{ site.title }}</span>
         </a>
-    </div>
+      </div>
 </header>

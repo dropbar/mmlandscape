@@ -4,6 +4,6 @@ title:  "Arizona River Rock"
 date:   2015-10-23 17:40:06
 categories: Decorative Rock
 image: rock6.jpg
-description: price per yard
+description: $45.00 per yard
 ---
 *** 1 Yard covers approximately 100 sq. feet @ 3" depth ***

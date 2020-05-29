@@ -22,7 +22,7 @@ permalink: /specials/
           <div class="mdl-card__supporting-text">
             {{ post.description }}
           </div>
-          <div class="post-card__fade"></div>
+          <!--<div class="post-card__fade"></div>-->
         </div>
       </a>
   </div>

@@ -1,4 +1,4 @@
-I"£<div class="mdl-layout__header-row">
+I"º<div class="mdl-layout__header-row">
     <a class="site-title">
         <span class="mdl-layout-title">Specials</span>
     </a>
@@ -14,9 +14,9 @@
           </div>
 
           <div class="mdl-card__supporting-text">
-            Fill Sand -Price per yard-
+            Fill Sand $45.00 per yard
           </div>
-          <div class="post-card__fade"></div>
+          <!--<div class="post-card__fade"></div>-->
         </div>
       </a>
   </div>
@@ -30,9 +30,9 @@
           </div>
 
           <div class="mdl-card__supporting-text">
-            Topsoil Price per yd
+            Topsoil $45.00 per yard
           </div>
-          <div class="post-card__fade"></div>
+          <!--<div class="post-card__fade"></div>-->
         </div>
       </a>
   </div>
@@ -46,9 +46,9 @@
           </div>
 
           <div class="mdl-card__supporting-text">
-            Baja Crest Boulders Price per Ton
+            $45.00 per Ton
           </div>
-          <div class="post-card__fade"></div>
+          <!--<div class="post-card__fade"></div>-->
         </div>
       </a>
   </div>
@@ -62,9 +62,9 @@
           </div>
 
           <div class="mdl-card__supporting-text">
-            price per yard
+            $45.00 per yard
           </div>
-          <div class="post-card__fade"></div>
+          <!--<div class="post-card__fade"></div>-->
         </div>
       </a>
   </div>
@@ -78,9 +78,9 @@
           </div>
 
           <div class="mdl-card__supporting-text">
-            Price per yard
+            $45.00 per yard
           </div>
-          <div class="post-card__fade"></div>
+          <!--<div class="post-card__fade"></div>-->
         </div>
       </a>
   </div>
@@ -94,9 +94,9 @@
           </div>
 
           <div class="mdl-card__supporting-text">
-            Base price per yard
+            $45.00 per yard
           </div>
-          <div class="post-card__fade"></div>
+          <!--<div class="post-card__fade"></div>-->
         </div>
       </a>
   </div>
